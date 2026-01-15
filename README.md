@@ -4,3 +4,5 @@
  - Power BI
  - SQL
  - Excel
+ - Looker
+
