@@ -2,3 +2,4 @@
 
 ### Tech stack:
  - Power BI
+ - SQL
