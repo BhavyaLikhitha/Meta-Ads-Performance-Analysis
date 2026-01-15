@@ -5,4 +5,4 @@
  - SQL
  - Excel
  - Looker
-
+ - Qlik
